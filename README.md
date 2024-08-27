@@ -10,8 +10,7 @@ This React application allows users to input personal health information to pred
 - **Risk Calculation**: Based on the provided inputs, the app calculates a risk score and categorizes it as low, moderate, or high risk of developing diabetes.
 - **Responsive Design**: The app is designed to be responsive and accessible across various devices.
 
-
-![Diabetes Predictor Demo](https://ibb.co/TvDdnSC) 
+[![Diabetes Predictor Demo](https://i.ibb.co/C1pDXZr/preview.gif)](https://imgbb.com/)
 
 ## Installation
 
